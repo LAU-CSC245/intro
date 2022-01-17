@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Main7 {
 
 	public static void main(String[] args) {
+		System.out.println("Enter a sequence of courses separated by commas");
 		Scanner input = new Scanner(System.in);
 		String x = input.next();
 		String[] tokens=tokenize(x);
