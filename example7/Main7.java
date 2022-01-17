@@ -1,5 +1,4 @@
 package example7;
-import 	;
 import java.util.Scanner;
 
 public class Main7 {
